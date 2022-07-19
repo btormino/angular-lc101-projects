@@ -1,0 +1,7 @@
+div {
+    text-align: center;
+    color: rgb(42, 120, 165);
+}
+a { 
+    display: -moz-box;
+}

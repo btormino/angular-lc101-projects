@@ -1,13 +1,14 @@
 h3 {
-   color: brown;
+   color: rgb(42, 120, 165);
 }
 
 img {
-   height: 50%;
-   width: 30%;
-   padding: 5px;
+   height: 100px;
+   width: 100px;
+   padding: 6px;
+   border: 3px double palevioletred;
 }
 
 .photos {
-   text-align: center;
+   text-align: center;  
 }
