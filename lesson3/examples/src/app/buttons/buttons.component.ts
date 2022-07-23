@@ -7,8 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ButtonsComponent implements OnInit {
    buttonHeading: string = "Buttons"
-   inactive: boolean = false;
-
+   buttonState: array = [true, true, true];
    constructor() { }
 
    ngOnInit() { }
